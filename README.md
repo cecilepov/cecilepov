@@ -1,5 +1,23 @@
-### Hi there 👋
+### Hello World, 
 
+**Welcome to my Github!** 🌱
+
+
+I am Cécile, a engineer graduated from ESIEE Paris (Computer Science major).
+
+My background is built around data processing, modeling and analysis, with a particular sensibility
+to algorithms, memory management and problem modeling.
+
+My fields of interest are:
+- graph theory, network science
+- algorithms
+- research
+- parallel computing
+- data analysis
+
+I am looking for an open-source project to contribute to, and more particularly a project linked to participatory science data analysis, ecology or biodiversity conservation. 
+
+Feel free to contact me for project opportunities (or for a casual tech discussion! )
 <!--
 **cecilepov/cecilepov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
