@@ -3,7 +3,7 @@
 **Welcome to my Github!** 🌱
 
 
-I am Cécile, a engineer graduated from ESIEE Paris (Computer Science major).
+I am Cécile, an engineer graduated from ESIEE Paris, a french engineering school where I majored in Computer Science.
 
 My background is built around data processing, modeling and analysis, with a particular sensibility
 to algorithms, memory management and problem modeling.
