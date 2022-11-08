@@ -1,6 +1,6 @@
 ### Hello World 🌱
 
-**Welcome to my Github!** 💻
+**Welcome to my GitHub!** 💻
 
 
 I am Cécile, an engineer graduated from ESIEE Paris, a french engineering school where I majored in Computer Science.
